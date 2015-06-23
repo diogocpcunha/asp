@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn.Loja.Dominio", "Learn.Loja.Dominio\Learn.Loja.Dominio.csproj", "{CA676454-D660-4F4E-A50A-50257A2697B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn.Loja.Web", "Learn.Loja.Web\Learn.Loja.Web.csproj", "{D9662D9B-8B51-4834-98DA-EEEE019A62CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn.Loja.Teste", "Learn.Loja.Teste\Learn.Loja.Teste.csproj", "{939AA900-E31B-47CC-822D-D7AD8C5BCCB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA676454-D660-4F4E-A50A-50257A2697B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA676454-D660-4F4E-A50A-50257A2697B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA676454-D660-4F4E-A50A-50257A2697B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA676454-D660-4F4E-A50A-50257A2697B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9662D9B-8B51-4834-98DA-EEEE019A62CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9662D9B-8B51-4834-98DA-EEEE019A62CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9662D9B-8B51-4834-98DA-EEEE019A62CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9662D9B-8B51-4834-98DA-EEEE019A62CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939AA900-E31B-47CC-822D-D7AD8C5BCCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939AA900-E31B-47CC-822D-D7AD8C5BCCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939AA900-E31B-47CC-822D-D7AD8C5BCCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939AA900-E31B-47CC-822D-D7AD8C5BCCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
