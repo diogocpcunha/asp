@@ -16,6 +16,6 @@ namespace Learn.Loja.Dominio.Entidades
 
         private decimal preco { get; set; }
 
-        public string categoria { get; set; }
+        private string categoria { get; set; }
     }
 }
